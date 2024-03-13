@@ -26,7 +26,7 @@ jobs:
         run: |
           git fetch origin docs
           git checkout docs
-          git remase origin/main --force 
+          git rebase origin/main --force 
       # Runs a single command using the runners shell
       - name: prepend data
         run: |
