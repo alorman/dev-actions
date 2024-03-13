@@ -29,6 +29,10 @@ jobs:
           cat tempreadme.md
           mv tempreadme.md README.md
           echo "move success"
+      - name: postpend data
+        run: |
+          cat scripts/footer.txt >> README.md
+          echo "cat postpend success"
       - name: Commit report
         run: |
           git config --global user.name 'robot'
