@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@v4
       # Runs a single command using the runners shell
       - name: prepend data
-        run: 
+        run: |
           wget https://github.com/alorman/dev-actions/blob/main/img/seamaster-1.jpg
           wget https://github.com/alorman/dev-actions/blob/main/scripts/header.txt
           cat header.txt README.md > tempreadme.md
