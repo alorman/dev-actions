@@ -1,6 +1,10 @@
 # Replacement Seamaster Calypso Dial
 I very much like the 80s vintage Omega Seamaster quartz watches, particularly some of the thin dive-style watches that use the 1337 movement. 
 
+## Blah Blah
+more stuff here. Bacon ipsum etc....
+
+
 ## Existing Condition
 I purchased a __very__ beaten up Seamaster Calypso III in the rare black-on-black colorways on ebay.  
 Known issues:  
