@@ -24,8 +24,8 @@ jobs:
       #switch to docs branch
       - name: branch switch
         run: |
-          git checkout main
-          git rebase dev_docs
+          git fetch origin docs:docs
+          git checkout docs
       # Runs a single command using the runners shell
       - name: prepend data
         run: |
@@ -42,3 +42,4 @@ jobs:
           git config --global user.email 'robot@users.noreply.github.com'
           git commit -am "Automated report"
           git push
+        
