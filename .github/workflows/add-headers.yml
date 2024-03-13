@@ -24,15 +24,13 @@ jobs:
       # Runs a single command using the runners shell
       - name: prepend data
         run: |
-          cat scripts/header.txt README.md > tempreadme.md
-          echo "cat success"
-          cat tempreadme.md
-          mv tempreadme.md README.md
+          find -maxdepth 1 -type f -iname readme.md -exec cat scripts/header.txt {} > tempreadme.md \;
+          echo "Found Readme and copied"
+          #cat tempreadme.md
+          cat scripts/footer.txt >> tempreadme.md
+          echo "copied footer"
+          mv tempreadme.md Readme.md
           echo "move success"
-      - name: postpend data
-        run: |
-          cat scripts/footer.txt >> README.md
-          echo "cat postpend success"
       - name: Commit report
         run: |
           git config --global user.name 'robot'
