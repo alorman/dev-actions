@@ -1,4 +1,10 @@
 [<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
+
+
+[](https://alorman-git-images.s3.amazonaws.com/Play.svg)
+
+
+[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
 ![](https://alorman-git-images.s3.amazonaws.com/Play.svg)
 
 
@@ -86,3 +92,7 @@ The total cost of the PCBs for this project was about $50 USD and I sourced them
 ![](img/seamaster-7.jpg)
 
 ![](img/seamaster-10.jpg)
+
+
+
+[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
