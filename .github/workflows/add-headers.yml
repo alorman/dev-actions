@@ -24,9 +24,9 @@ jobs:
       #switch to docs branch
       - name: branch switch
         run: |
-          git fetch origin docs:docs
+          git fetch origin docs
           git checkout docs
-          git rebase origin main
+          git remase origin/main --force 
       # Runs a single command using the runners shell
       - name: prepend data
         run: |
