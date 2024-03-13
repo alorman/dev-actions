@@ -1,14 +1,6 @@
-![](seamaster-1.jpg)  
-Thank you for coming  
-[Return to Alex Lorman](www.alexlorman.com)  
-  
-![](seamaster-1.jpg)  
-Thank you for coming  
-[](www.alexlorman.com)  
-  
-![](seamaster-1.jpg)  
-Thank you for coming  
-[](link back to alexlorman.com)  
+[![Add Headers](https://github.com/alorman/dev-actions/actions/workflows/add-headers.yml/badge.svg)](https://github.com/alorman/dev-actions/actions/workflows/add-headers.yml)
+
+
   
 ![](seamaster-1.jpg)
 Thank you for coming
