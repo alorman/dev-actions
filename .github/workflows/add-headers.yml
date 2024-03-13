@@ -26,6 +26,7 @@ jobs:
         run: |
           git fetch origin docs:docs
           git checkout docs
+          git rebase origin main
       # Runs a single command using the runners shell
       - name: prepend data
         run: |
