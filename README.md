@@ -1,3 +1,8 @@
+[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
+![](https://alorman-git-images.s3.amazonaws.com/Play.svg)
+
+
+  
  <a href="www.alexlorman.com">
   <img src="https://alorman-git-images.s3.amazonaws.com/Play.svg" alt="Return to alexlorman.com">
 </a> 
