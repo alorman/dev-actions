@@ -1,41 +1,4 @@
-[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
 
-
-[](https://alorman-git-images.s3.amazonaws.com/Play.svg)
-
-
-[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
-
-
-[](https://alorman-git-images.s3.amazonaws.com/Play.svg)
-
-
-[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
-
-
-[](https://alorman-git-images.s3.amazonaws.com/Play.svg)
-
-
-[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
-![](https://alorman-git-images.s3.amazonaws.com/Play.svg)
-
-
-  
- <a href="www.alexlorman.com">
-  <img src="https://alorman-git-images.s3.amazonaws.com/Play.svg" alt="Return to alexlorman.com">
-</a> 
-
-![](https://alorman-git-images.s3.amazonaws.com/Play.svg)
-
-
-  
-[![Add Headers](https://github.com/alorman/dev-actions/actions/workflows/add-headers.yml/badge.svg)](https://github.com/alorman/dev-actions/actions/workflows/add-headers.yml)
-
-
-  
-![](seamaster-1.jpg)
-Thank you for coming
-[](link back to alexlorman.com)
 # Replacement Seamaster Calypso Dial
 I very much like the 80s vintage Omega Seamaster quartz watches, particularly some of the thin dive-style watches that use the 1337 movement. 
 
@@ -105,14 +68,3 @@ The total cost of the PCBs for this project was about $50 USD and I sourced them
 
 ![](img/seamaster-10.jpg)
 
-
-
-[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
-
-
-
-[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
-
-
-
-[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
