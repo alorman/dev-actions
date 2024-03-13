@@ -28,6 +28,7 @@ jobs:
           wget https://raw.githubusercontent.com/alorman/dev-actions/main/scripts/header.txt
           cat header.txt README.md > tempreadme.md
           echo "cat success"
+          cat tempreadme.md
           mv tempreadme.md README.md
           echo "move success"
       - name: Commit report
