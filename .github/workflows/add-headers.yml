@@ -27,7 +27,9 @@ jobs:
           wget https://github.com/alorman/dev-actions/blob/main/img/seamaster-1.jpg
           wget https://github.com/alorman/dev-actions/blob/main/scripts/header.txt
           cat header.txt README.md > tempreadme.md
+          echo "cat success"
           mv tempreadme.md README.md
+          echo "move success"
       - name: Commit report
         run: |
           git config --global user.name 'Alex Lorman'
