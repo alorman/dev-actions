@@ -34,7 +34,7 @@ jobs:
       - name: copy assets
         run: |
           git clone https://github.com/alorman/docs-bot.git
-          chmod +x /docs-bot/copy-scripting.sh
+          chmod +x docs-bot/scripts/copy-scripting.sh
           ./docs-bot/scripts/copy-scripting.sh
       # Runs a single command using the runners shell
 #      - name: prepend data
