@@ -33,7 +33,7 @@ jobs:
       # Grab assets and data from our other github repo instead of S3
       - name: copy assets
         run: |
-          git clone https://github.com/alorman/scripts/docs-bot.git
+          git clone https://github.com/alorman/docs-bot.git
           chmod +x /docs-bot/copy-scripting.sh
           ./docs-bot/scripts/copy-scripting.sh
       # Runs a single command using the runners shell
