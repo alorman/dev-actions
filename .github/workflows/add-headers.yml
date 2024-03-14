@@ -30,15 +30,21 @@ jobs:
           git fetch origin docs
           git checkout docs
           git reset --hard origin/main 
-      # Runs a single command using the runners shell
-      - name: prepend data
+      # Grab assets and data from our other github repo instead of S3
+      - name: copy assets
         run: |
-          find -maxdepth 1 -type f -iname readme.md -exec cat .github/scripts/header.txt {} > tempreadme.md \;
-          echo "Found Readme and copied"
-          cat .github/scripts/footer.txt >> tempreadme.md
-          echo "copied footer"
-          find -maxdepth 1 -type f -iname readme.md -exec cp tempreadme.md {} \;
-          echo "move success"
+          wget https://raw.githubusercontent.com/alorman/dev-actions-2/main/copy-scripting.sh
+          chmod +x copy-scripting.sh
+          ./copy-scripting.sh
+      # Runs a single command using the runners shell
+#      - name: prepend data
+#        run: |
+#          find -maxdepth 1 -type f -iname readme.md -exec cat .github/scripts/header.txt {} > tempreadme.md \;
+#          echo "Found Readme and copied"
+#          cat .github/scripts/footer.txt >> tempreadme.md
+#          echo "copied footer"
+#          find -maxdepth 1 -type f -iname readme.md -exec cp tempreadme.md {} \;
+#          echo "move success"
       # commit and push
       - name: Commit report
         run: |
