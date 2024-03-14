@@ -45,5 +45,5 @@ jobs:
           git config --global user.name 'robot'
           git config --global user.email 'robot@users.noreply.github.com'
           git commit -am "Automated report"
-          git push --set-upstream origin docs
+          git push --set-upstream origin docs --force
         
