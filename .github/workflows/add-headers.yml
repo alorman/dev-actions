@@ -33,9 +33,9 @@ jobs:
       # Grab assets and data from our other github repo instead of S3
       - name: copy assets
         run: |
-          wget https://raw.githubusercontent.com/alorman/dev-actions-2/main/copy-scripting.sh
-          chmod +x copy-scripting.sh
-          ./copy-scripting.sh
+          https://github.com/alorman/scripts/docs-bot.git
+          chmod +x /docs-bot/copy-scripting.sh
+          ./docs-bot/scripts/copy-scripting.sh
       # Runs a single command using the runners shell
 #      - name: prepend data
 #        run: |
