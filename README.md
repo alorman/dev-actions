@@ -1,3 +1,8 @@
+[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
+
+<img src="https://github.com/alorman/docs-bot/blob/main/assets/images/package-1.JPG?raw=true" height="300">
+
+![](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/Research.svg)
 # equal testing! fewfewefewf and on and on
 
 # Replacement Seamaster Calypso Dial
@@ -69,3 +74,7 @@ The total cost of the PCBs for this project was about $50 USD and I sourced them
 
 ![](img/seamaster-10.jpg)
 
+
+
+
+[<img src="https://raw.githubusercontent.com/alorman/docs-bot/main/assets/jump-back.svg">](https://www.alexlorman.com/)
