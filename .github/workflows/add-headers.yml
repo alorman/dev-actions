@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       IMAGE_NAME: LED-image.jpg
-      PROJECT_CATEGORY: Research
+      PROJECT_CATEGORY: Research.svg
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
